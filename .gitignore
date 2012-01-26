@@ -1,0 +1,17 @@
+*.diff
+*.mode1v3
+*.orig
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.swp
+.DS_Store
+project.xcworkspace/
+tags
+xcuserdata/
+
+# Full paths.
+/build/
+/dist/
+/docs/*.html
+/docs/README_main.rst
