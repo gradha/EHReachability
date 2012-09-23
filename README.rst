@@ -2,7 +2,7 @@
 Apple's reachability class
 ==========================
 
-:author: Grzegorz Adam Hankiewicz <gradha@argon.sabren.com>
+:author: Grzegorz Adam Hankiewicz <gradha@imap.cc>
 
 .. contents::
 
